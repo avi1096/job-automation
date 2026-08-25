@@ -17,7 +17,7 @@ filters:
   job_type:
     - "Full Time"
 
-resume_path: "./resume/your_resume.pdf"
+resume_path: "./resume/Avnish_resume.pdf"
 
 applicant:
   name: "Avnish Kumar"
