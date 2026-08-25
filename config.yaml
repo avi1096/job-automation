@@ -1,45 +1,39 @@
 keywords:
-  - "React Developer"
-  - "Frontend Developer"
-  - "Next.js Developer"
-  - "Full Stack Developer"
-  - "Software Development Engineer"
-  - "SDE"
-  - "Node.js Developer"
+  - "Case Manager"
+  - "Quality Assurance Specialist"
+  - "Software QA Tester"
+  - "User Evaluation Specialist"
+  - "Technical Documentation Specialist"
+  - "Data Evaluator"
+  - "Social Work"
 
 filters:
   locations:
     - "Remote"
-    - "Pune"
-    - "Mumbai"
-    - "Bangalore"
-  experience: "0-1"           # fresher / 0-1 year
+    - "Delhi"
+    - "Delhi NCR"
+    - "New Delhi"
+  experience: "0-5"           # Covers your experience range safely
   job_type:
     - "Full Time"
-    - "Internship"
 
-resume_path: "./resume/Nawazish_Bidiwale_Fullstack.pdf"
+resume_path: "./resume/your_resume.pdf"
 
 applicant:
-  name: "Nawazish Majid Bidiwale"
-  email: "nawazishb2004@gmail.com"
-  phone: "9763603940"
-  expected_ctc: "500000"       # 5 LPA
+  name: "Avnish Kumar"
+  email: "avnishkumar11996@gmail.com"
+  phone: "8700752069"
+  expected_ctc: "500000"       # 5 LPA (highly achievable for these target roles)
   current_ctc: "0"
-  notice_period: "0"
-  experience_years: "0"
-  willing_to_relocate: "Yes"
-  current_location: "Pune"
+  notice_period: "15"          # Matches your fast availability
+  experience_years: "1"
+  willing_to_relocate: "No"    # Tailored to focus on Remote/Delhi
+  current_location: "New Delhi"
 
 cover_note: |
-  I'm a final-year CSE student and full-stack developer with hands-on internship
-  experience building production-grade applications at Roxiler Systems using
-  Next.js, React, TypeScript, TanStack Query, and Node.js. I've worked across
-  the stack — from designing RESTful APIs with Nest.js and PostgreSQL to building
-  layered, testable UI architectures. I'm an immediate joiner looking for a
-  full-time or internship role where I can contribute from day one.
+  Socio-technical data evaluator and QA-trained researcher with an MSW from Delhi School of Social Work (University of Delhi) and a B.Tech in Information Technology. Proven track record in structured software QA testing (JIRA bug tracking, compliance logs, cross-functional reporting at Babel Media) combined with robust field-based qualitative research, multi-stakeholder case documentation, and user evaluation programs. Highly skilled at working to defined rubrics and producing structured written output for complex digital environments.
 
 limits:
-  max_per_platform: 30         # max applications per platform per run
-  delay_between_jobs: 6        # seconds between each application
-  delay_between_searches: 4    # seconds between search queries
+  max_per_platform: 15         # Lowers burst volume to keep your account safe
+  delay_between_jobs: 20        # Forces the bot to spend 20 seconds reading each job
+  delay_between_searches: 15    # Spaced searches to confuse anti-bot tracking firewalls
