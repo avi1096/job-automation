@@ -25,7 +25,7 @@ applicant:
   phone: "8700752069"
   expected_ctc: "500000"       # 5 LPA (highly achievable for these target roles)
   current_ctc: "0"
-  notice_period: "15"          # Matches your fast availability
+  notice_period: "7"          # Matches your fast availability
   experience_years: "1"
   willing_to_relocate: "No"    # Tailored to focus on Remote/Delhi
   current_location: "New Delhi"
